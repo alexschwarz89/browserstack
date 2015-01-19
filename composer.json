@@ -1,0 +1,19 @@
+{
+    "name": "alexschwarz89/browserstack",
+    "type": "library",
+    "description" : "Client library for Browserstack Screenshot API",
+    "keywords": ["browserstack", "screenshots"],
+    "require": {
+        "php": ">=5.3.3",
+        "tzfrs/simple-curl": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alexschwarz89\\Browserstack\\": "src/"
+        }
+
+    }
+}
