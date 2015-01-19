@@ -3,7 +3,7 @@ namespace Alexschwarz89\Browserstack\Screenshots;
 
 use Alexschwarz89\Browserstack\Screenshots\Response\Base;
 use Alexschwarz89\Browserstack\Screenshots\Response\ScreenshotsResponse;
-use tzfrs\Util\SimpleCurl;
+use tzfrs\Util\Curl;
 
 class Api
 {
@@ -67,7 +67,7 @@ class Api
      */
     protected function init()
     {
-        $this->curl = new SimpleCurl();
+        $this->curl = new Curl();
         $this->setCredentials($this->username, $this->password);
     }
 
