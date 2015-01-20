@@ -3,6 +3,7 @@
     "type": "library",
     "description" : "Client library for Browserstack Screenshot API",
     "keywords": ["browserstack", "screenshots"],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
         "tzfrs/curl": "dev-master"
