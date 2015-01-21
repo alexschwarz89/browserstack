@@ -9,7 +9,7 @@ Install via [composer](https://getcomposer.org):
 ```javascript
 {
     "require": {
-        "alexschwarz89/browserstack": "dev-master"
+        "alexschwarz89/browserstack": "0.0.2"
     }
 }
 ```
