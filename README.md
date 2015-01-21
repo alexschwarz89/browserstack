@@ -43,6 +43,5 @@ if ($status->isFinished()) {
   foreach ($status->finishedScreenshots as $screenshot) {
     print $screenshot->image_url ."\n";
   }
-  break;
 }
 ```
