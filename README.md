@@ -33,6 +33,7 @@ use Alexschwarz89\Browserstack\Screenshots\Request;
 $api        = new Api('account', 'password');
 $request    = Request::buildRequest('http://www.example.org', 'Windows', '8.1', 'ie', '11.0');
 $response   = $api->sendRequest( $request );
+$jobId      = $response->jobId;
 ```
 
 #### Query information about the request
