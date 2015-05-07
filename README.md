@@ -48,3 +48,7 @@ if ($status->isFinished()) {
   }
 }
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexschwarz89/browserstack/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
