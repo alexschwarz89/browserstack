@@ -1,8 +1,6 @@
 Browserstack
 ============
-[![Latest Stable Version](https://poser.pugx.org/alexschwarz89/browserstack/v/stable)](https://packagist.org/packages/alexschwarz89/browserstack)
-
-[![Total Downloads](https://poser.pugx.org/alexschwarz89/browserstack/downloads)](https://packagist.org/packages/alexschwarz89/browserstack)
+[![Latest Stable Version](https://poser.pugx.org/alexschwarz89/browserstack/v/stable)](https://packagist.org/packages/alexschwarz89/browserstack) [![Total Downloads](https://poser.pugx.org/alexschwarz89/browserstack/downloads)](https://packagist.org/packages/alexschwarz89/browserstack)
 
 An easy-to-use PHP library for the Browserstack Screenshots API. Working examples included.
 
